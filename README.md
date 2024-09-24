@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Chauhan</h1>
-<h3 align="centre">I am learning to become among the top 1% of software developers.</h3>
+<h3 align="center">I am learning to become among the top 1% of software developers.</h3>
 
 - 🌱 I’m currently learning **DSA && web dev.**
 
