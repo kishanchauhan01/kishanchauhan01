@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishan Chauhan</h1>
 <h3 align="center">I am learning to become one of the top 1% of software developers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishanchauhan01&label=Profile%20views&color=0e75b6&style=flat" alt="kishanchauhan01" /> </p>
-
 - 🌱 I’m currently learning **DSA && web dev.**
 
 - 📫 How to reach me **kishanchauhan2006.25@gmail.com**
