@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kishan-chauhan-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-chauhan-cs" height="30" width="40" /></a>
 <a href="https://instagram.com/kishan.chauh_an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishan.chauh_an" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kishanccj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishanccj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kishanchauhanccj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishanchauhanccj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kishanchaulx15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kishanchaulx15" height="30" width="40" /></a>
 </p>
 
